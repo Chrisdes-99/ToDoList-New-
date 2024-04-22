@@ -2,5 +2,7 @@
   "homepage": "Chrisdes-99.github.io/ToDoList-New-",
   "dependencies": {
     "gh-pages": "^6.1.1"
-  }
+  },
+  "predeploy": "npm run build", 
+  "deploy": "gh-pages -d build"
 }
