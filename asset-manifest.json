@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Chrisdes-99.github.io/ToDoList-New-/static/css/main.f855e6bc.css",
+    "main.js": "/Chrisdes-99.github.io/ToDoList-New-/static/js/main.b1b8ce1c.js",
+    "static/js/453.37753ddd.chunk.js": "/Chrisdes-99.github.io/ToDoList-New-/static/js/453.37753ddd.chunk.js",
+    "static/media/logo.svg": "/Chrisdes-99.github.io/ToDoList-New-/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Chrisdes-99.github.io/ToDoList-New-/index.html",
+    "main.f855e6bc.css.map": "/Chrisdes-99.github.io/ToDoList-New-/static/css/main.f855e6bc.css.map",
+    "main.b1b8ce1c.js.map": "/Chrisdes-99.github.io/ToDoList-New-/static/js/main.b1b8ce1c.js.map",
+    "453.37753ddd.chunk.js.map": "/Chrisdes-99.github.io/ToDoList-New-/static/js/453.37753ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b1b8ce1c.js"
+  ]
+}
